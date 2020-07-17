@@ -24,7 +24,7 @@
     <div class="input-group mb-3" style="width: 100%;text-align:center;padding-left:40%;">
       <div class="input-group-prepend text-align:center">
         <span class="input-group-text" id="basic-addon1"><i class='far fa-user'></i></span>
-        <input type="text" id="userid" class="form-control" name="identifier" placeholder="Please Enter Your User ID"
+        <input type="text" id="userid" class="form-control" name="identifier" placeholder="Please Enter Your User ID" value="17600"
           aria-label="Username" aria-describedby="basic-addon1" minlength=1 required>
       </div>
     </div>
