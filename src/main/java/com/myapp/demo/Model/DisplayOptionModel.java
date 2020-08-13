@@ -11,7 +11,7 @@ public class DisplayOptionModel {
     private PatientModel selectedPatient;
     private Integer viewRefreshTime = 60;
     private Double averageCholesterol;
-    private Integer highSystolicBP = 130;
+    private Integer highSystolicBP = 120;
     private Integer highDiastolicBP = 80;
     private ArrayList<PatientModel> selectedHighBPPatients = new ArrayList<PatientModel>();
     // private String[] selectedView =new String[]{"1","1"};
