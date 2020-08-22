@@ -1,16 +1,17 @@
-# project
+# FHIR monitor
 
-PROJECT Setup 
-This project uses SpringBoot framework.
+Project developed for FIT3077 Software Engineering: Architecture and Design - S1/2020 MONASH UNIVERSITY
 
-Requirements:
-For building the application you'll need
-- Maven 4.0
+Team members: Ng Sin Yu, Thing Xin Jie
 
-To run the application locally:
-- Execute the main method in the class of DemoApplication Method
-- Open your web brower with the port 8080 at http://localhost:8080/
 
+## Project
+Written in Java; using Spring MVC framework
+
+Demo application: https://fhir-demo-xj-sy.herokuapp.com
+
+
+### Note: Functions of the application are based on Assignment requirements. Please do not make any assumptions without clarification.
 
 
 
